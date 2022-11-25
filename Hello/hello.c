@@ -5,7 +5,10 @@ int main(int argc, char * argv[]) {
 	// argc -- count of cli arguments
 	// argv -- arguments
 	
-	printf("Hello World: Git\n");
+	printf("Schweinslungenbraten!!!!\n");
+	printf("Pfefferkörner!!!!\n");
+	printf("Speck!!!!\n");
+	printf("Kartoffeln!!!!\n");
 	
 	int sum = 0;
 	for(int i = 0; i < argc; ++i) {
